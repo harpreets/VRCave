@@ -1,0 +1,6 @@
+ofxVideoMapping
+ofxDraggable
+ofxMSAInteractiveObject
+ofxOpenNI
+ofxXmlSettings
+ofxUserPerspectiveCam
