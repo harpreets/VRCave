@@ -1,0 +1,30 @@
+<DisplayScreens>
+
+	<Screen type="quad" id="1">
+		<Corners>
+			<TopLeft>1890.0,1010.0,3860.0</TopLeft>
+			<TopRight>682.0,1010.0,4150.0</TopRight>
+			<BottomLeft>1890.0,-1450.0,3860.0</BottomLeft>
+			<BottomRight>682.0,-1450.0,4150.0</BottomRight>
+		</Corners>
+	</Screen>
+    
+	<Screen type="quad" id="2">
+		<Corners>
+			<TopLeft>682.0,1010.0,4150.0</TopLeft>
+			<TopRight>-870.0,1010.0,4150.0</TopRight>
+			<BottomLeft>682.0,-1450.0,4150.0</BottomLeft>
+			<BottomRight>-870.0,-1450.0,4150.0</BottomRight>
+		</Corners>
+	</Screen>
+
+    <Screen type="quad" id="3">
+		<Corners>
+			<TopLeft>-870.0,1010.0,4150.0</TopLeft>
+			<TopRight>-2255.0,1010.0,3370.0</TopRight>
+			<BottomLeft>-870.0,-1450.0,4150.0</BottomLeft>
+			<BottomRight>-2255.0,-1450.0,3370.0</BottomRight>
+		</Corners>
+	</Screen>
+
+</DisplayScreens>

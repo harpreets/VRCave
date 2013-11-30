@@ -66,10 +66,8 @@ DerivedData/
   
 .svn/  
 obj/
-bin/
 build/
-!data/openni
-!data/DisplayConfig.xml
+!bin/data
 
 Debug*/
 Release*/
