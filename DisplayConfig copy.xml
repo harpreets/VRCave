@@ -1,0 +1,31 @@
+<DisplayScreens>
+
+	<Screen type="quad" id="1">
+		<Corners>
+			<TopLeft>0,0,0</TopLeft>
+			<TopRight>452.0,0,0</TopRight>
+			<BottomLeft>0,274.0,0</BottomLeft>
+			<BottomRight>452.0,274.0,0</BottomRight>
+		</Corners>
+	</Screen>
+	
+<!--	<Screen type="quad" id="2">
+		<Corners>
+			<TopLeft>123.4</TopLeft>
+			<TopRight>123.4</TopRight>
+			<BottomLeft>123.4</BottomLeft>
+			<BottomRight>123.4</BottomRight>
+		</Corners>
+	</Screen>
+	
+	<Screen type="quad" id="3">
+		<Corners>
+			<TopLeft>123.4</TopLeft>
+			<TopRight>123.4</TopRight>
+			<BottomLeft>123.4</BottomLeft>
+			<BottomRight>123.4</BottomRight>
+		</Corners>
+	</Screen>
+-->
+	
+</DisplayScreens>
